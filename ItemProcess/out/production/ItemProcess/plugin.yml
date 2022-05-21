@@ -1,0 +1,6 @@
+name: ItemProcess
+version: '${project.version}'
+main: main.steronline.mcv.kr.Main
+api-version: 1.12
+commands:
+  가공:
